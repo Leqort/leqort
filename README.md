@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Leqort/leqort/blob/main/assets/doc_2025-01-26_17-00-10.gif" alt="Header" />
-
+  <img src="https://github.com/Leqort/leqort/blob/main/assets/0126.gif" alt="Header" />
 
 ## I'm a begginer Rust developer
 
