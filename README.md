@@ -1,1 +1,1 @@
-![Header](https://github.com/Leqort/leqort/blob/main/assets/doc_2025-01-26_17-00-10.mp4)
+![Header](https://github.com/Leqort/leqort/blob/main/assets/doc_2025-01-26_17-00-10.gif)
