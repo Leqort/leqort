@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://github.com/Leqort/leqort/blob/main/assets/0126.gif" alt="Header" />
-
 ## I'm a begginer Go developer
 
 ### Language and tools
