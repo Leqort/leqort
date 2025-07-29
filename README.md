@@ -1,5 +1,6 @@
 <div align="center">
-<div style="font-weight: bold;"> I'm a begginer Go developer </div>
+
+# I'm a begginer Go developer
 
 ### Language and tools
 
